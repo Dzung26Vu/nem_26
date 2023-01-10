@@ -1,0 +1,13 @@
+Link Tham
+https://www.facebook.com/thamtran.cuteee
+https://www.instagram.com/thzm26/?fbclid=IwAR2FHps7I0zJZHhdQTUI84j3NNpIdAWfFueRTd--GYaXC1jMgChjoM4mLg4
+https://www.tiktok.com/@hthzm?_t=8Ynh661YLUf&_r=1&fbclid=IwAR0eoxhHYLWNOzGTH7LbBiIAs0R2NEQMv4GTX-PIFGlChPnnzEcs8VBKkJI
+
+
+echo "# nem" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dzung26Vu/nem.git
+git push -u origin main
